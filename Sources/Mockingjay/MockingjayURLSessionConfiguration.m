@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <Mockingjay/Mockingjay-Swift.h>
+#import "Mockingjay-Swift.h"
 
 
 @interface MockingjayURLConfiguration : NSObject
